@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #env
 .env
 .env.*
@@ -30,7 +29,7 @@ dist-ssr
 
 .env
 .vite
-=======
+
 #env
 .env
 .env.*
@@ -62,4 +61,3 @@ dist-ssr
 
 .env
 .vite
->>>>>>> a99d56452efc3a5502628d23073cf8aef6117b83
